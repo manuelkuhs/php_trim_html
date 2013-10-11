@@ -6,7 +6,7 @@ Simple but powerful PHP function to trim specific or all HTML tags from a string
 Features:
 ---------
 * trim (remove from end and beginning) substrings from a string
-* intelligently trim HTML tags from a string (e.g. inputting "br" will trim all <br>, <br >, </br> <br /> etc.)
+* intelligently trim HTML tags from a string (e.g. inputting "br" will trim all \<br>, \<br >, \</br> \<br /> etc.)
 * trim multiple substrings/HTML tags at once
 * trim ALL HTML tags
 
